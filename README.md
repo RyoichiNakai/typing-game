@@ -11,3 +11,6 @@
 ## 使用方法
 
 ## アセット
+
+## 参考URL
+>https://kenzo0107.github.io/2020/04/29/2020-04-30-typing-game-go/
