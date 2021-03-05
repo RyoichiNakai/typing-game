@@ -1,6 +1,6 @@
 # Typing Game
 ## 構成
-![develop_wordpress](https://user-images.githubusercontent.com/49640294/109962862-1093f900-7d2f-11eb-8b36-af8d696cf953.png)
+![develop_wordpress](https://user-images.githubusercontent.com/49640294/110129804-b3ba4080-7e0b-11eb-986c-ceb928dcb60b.png)
 
 ## 実装仕様
 - 標準出力に英単語を出す（出すものは自由）
